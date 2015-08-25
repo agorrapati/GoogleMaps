@@ -3,5 +3,5 @@
 
     <string name="app_name">GoogleMaps</string>
     <string name="title_activity_maps">Map</string>
-
+    <string name="google_maps_key">AIzaSyDu9G-h2SJaeTCrG22F5y7qNcPQ42CFI7g</string>
 </resources>
